@@ -1,0 +1,8 @@
+D:\22020823\22020823\bin\Debug\22020823.exe.config
+D:\22020823\22020823\bin\Debug\22020823.exe
+D:\22020823\22020823\bin\Debug\22020823.pdb
+D:\22020823\22020823\obj\Debug\22020823.csproj.AssemblyReference.cache
+D:\22020823\22020823\obj\Debug\22020823.csproj.SuggestedBindingRedirects.cache
+D:\22020823\22020823\obj\Debug\22020823.csproj.CoreCompileInputs.cache
+D:\22020823\22020823\obj\Debug\22020823.exe
+D:\22020823\22020823\obj\Debug\22020823.pdb
